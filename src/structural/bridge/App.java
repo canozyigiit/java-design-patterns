@@ -1,6 +1,6 @@
 package structural.bridge;
 
-import structural.bridge.Device.Computer;
+import structural.bridge.device.Computer;
 import structural.bridge.audioDevice.Headphone;
 import structural.bridge.audioDevice.Speaker;
 import structural.bridge.musicPlayer.Fizy;

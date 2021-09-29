@@ -1,4 +1,4 @@
-package structural.bridge.Device;
+package structural.bridge.device;
 
 import structural.bridge.Music;
 import structural.bridge.audioDevice.AudioDevice;
