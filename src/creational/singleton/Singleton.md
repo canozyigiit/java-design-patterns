@@ -1,5 +1,5 @@
 ## Singleton ,
-Örneğe genel bir erişim noktası sağlarken bir sınıfın yalnızca bir örneğe sahip olmasını sağlamanıza olanak tanıyan yaratıcı bir tasarım modelidir.
+Instance genel bir erişim noktası sağlarken bir sınıfın yalnızca bir instance sahip olmasını sağlamanıza olanak tanıyan yaratıcı bir tasarım modelidir.
 
 ### Sorun
 Singleton modeli, Tek Sorumluluk İlkesini ihlal ederek aynı anda iki sorunu çözer :
