@@ -15,6 +15,6 @@ Bir Facade sahip olmak, uygulamanızı düzinelerce özelliğe sahip gelişmiş 
 
 Örneğin, kedilerin olduğu kısa komik videoları sosyal medyaya yükleyen bir uygulama, potansiyel olarak profesyonel bir video dönüştürme kitaplığı kullanabilir. Ancak, gerçekten ihtiyaç duyduğu tek şey, tek yöntemli bir sınıftır encode(filename, format). Böyle bir sınıf oluşturduktan ve onu video dönüştürme kitaplığına bağladıktan sonra ilk cephenize sahip olacaksınız.
 ### Karmaşık bir video dönüştürme kitaplığı için basit arayüz
-Bu örnekte, Cephe, karmaşık bir video dönüştürme çerçevesi ile iletişimi basitleştirir.
+Bu örnekte Facade, karmaşık bir video dönüştürme çerçevesi ile iletişimi basitleştirir.
 
 Facade, çerçevenin doğru sınıflarını yapılandırmanın ve sonucu doğru bir biçimde almanın tüm karmaşıklığını ele alan tek bir yöntemle tek bir sınıf sağlar.
