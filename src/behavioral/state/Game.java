@@ -1,4 +1,4 @@
-package structural.state;
+package behavioral.state;
 
 public class Game {
 

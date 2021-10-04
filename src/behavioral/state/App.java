@@ -1,4 +1,4 @@
-package structural.state;
+package behavioral.state;
 
 public class App {
     public static void main(String[] args) {
